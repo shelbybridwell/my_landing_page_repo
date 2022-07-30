@@ -7,10 +7,10 @@
   /* Element Selectors */
   body {
     position: relative;
-    font-family: "Goudy Bookletter 1911", sans-serif;
-    font-size: 20px;
-    background-color: #FDF8F5;
-    color: #4F4846;
+    font-family: "Rockwell", sans-serif;
+    font-size: 15px;
+    background-color: pink;
+    color: lavenderblush;
   }
   
   h1,
@@ -38,20 +38,20 @@
     height: 60px;
     width: 100%;
     line-height: 60px;
-    background-color: #266150;
+    background-color: lavender;
   }
   
   header {
     position: fixed;
-    border-bottom: 10px solid #DDAF94;
+    border-bottom: 10px solid #ce8ede;
   }
   
   footer {
     position: absolute;
     margin-top: 0;
     bottom: 0;
-    border-bottom: 10px solid #4F4846;
-    color: #FDF8F5;    
+    border-bottom: 10px solid #ce8ede;
+    color: #FDF8F5;   
   }
   
   figure {
@@ -66,8 +66,8 @@
   section {
     margin-bottom: 0;
     padding: 20px 10px 40px 10px;
-    border-top: 3px solid #DDAF94;
-    background-color:  #E8CEBF;
+    border-top: 3px solid #ce8ede;
+    background-color:  lightpink;
   }
   
   form {
@@ -75,7 +75,7 @@
     margin: 0 auto;
     width: 500px;
     padding: 10px;
-    border: 5px solid #DDAF94;
+    border: 5px solid #ce8ede;
     border-radius: 20px;
   }
   
@@ -88,7 +88,7 @@
   textarea {
     box-sizing: border-box;
     width: 300px;
-    border: 1px solid #4F4846;
+    border: 1px solid lavender;
   }
   
   textarea {
@@ -99,7 +99,7 @@
   button {
     height: 40px;
     width: 120px;
-    background-color: #4F4846;
+    background-color: palevioletred;
     color: #FDF8F5;
   }
    
